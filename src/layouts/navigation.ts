@@ -240,7 +240,7 @@ export const getNavigation = (section) => {
                 },
                 {
                 title: "GMP Example",
-                href: "/dev/general-message-passing/soroban-gmp/gmp-message-example/"
+                href: "/dev/general-message-passing/soroban-gmp/gmp-example/"
                 },
                 {
                 title: "ITS",
